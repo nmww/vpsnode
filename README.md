@@ -1,21 +1,6 @@
 
-clash节点.yaml
-如果更新不了则需要翻墙
-V2ray订阅链接
-
-clash订阅链接
-
-IOS端：小火箭订阅satsh链接
 
 
-clash设置自动更新时间2H
 
--------------------------------------
-以下为软件下载地址
-v2rayN永久更新地址
-
-Clash永久更新地址
-
-Clash汉化补丁永久更新地址
-
-
+0825
+外链:https://wwb.lanzoul.com/b03dbgyyh 密码:5566
